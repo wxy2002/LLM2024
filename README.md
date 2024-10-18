@@ -1,5 +1,3 @@
-# LLM2024
-
 ## code.r
 It includes R language code for data analysis and plotting.
 
